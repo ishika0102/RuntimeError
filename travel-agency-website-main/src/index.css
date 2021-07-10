@@ -33,8 +33,7 @@ body {
 }
 
 .showcase {
-  background: url('https://images.pexels.com/photos/46148/aircraft-jet-landing-cloud-46148.jpeg?auto=compress&cs=tinysrgb&h=650&w=940')
-    no-repeat center/cover;
+   background: url('https://unsplash.com/photos/pRJhn4MbsMM');
   height: 650px;
 }
 
@@ -121,9 +120,10 @@ body {
   border: none;
   border-radius: 10px;
   width: 80vw;
-  font-family: inherit;
+  font-family: 'DM SHERIF ';
   font-weight: 700;
   letter-spacing: 2px;
+  color:#333 ;
 }
 
 .login .form-control button {

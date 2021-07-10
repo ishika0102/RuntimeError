@@ -10,7 +10,7 @@ const Destinations = () => {
       <div className='grid'>
         <div>
           <img src={image1} alt='destination-1' />
-          <h3>Fly to Aruba</h3>
+          <h3>Vendors</h3>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit.
             Dignissimos, ab nesciunt? Molestias rem qui sequi!
@@ -19,7 +19,7 @@ const Destinations = () => {
 
         <div>
           <img src={image2} alt='destination-2' />
-          <h3>Experience Mombasa</h3>
+          <h3>Sellers</h3>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit.
             Dignissimos, ab nesciunt? Molestias rem qui sequi!
@@ -28,7 +28,7 @@ const Destinations = () => {
 
         <div>
           <img src={image3} alt='destination-3' />
-          <h3>Savour Hawaii</h3>
+          <h3>Items</h3>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit.
             Dignissimos, ab nesciunt? Molestias rem qui sequi!

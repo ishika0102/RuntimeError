@@ -7,14 +7,19 @@ const Login = () => {
         <div className='showcase-overlay'>
           <form className='form-control'>
             <input
-              type='email'
-              name='email'
-              id='email'
-              placeholder='Your email address'
+              type='tel'
+              name='phnno'
+              id='phnno'
+              placeholder='Your Phone Number'
               required
             />
-            <input type='password' name='password' id='password' />
-            <button type='submit'>Log In</button>
+            <input 
+            type='no' 
+            name='password' 
+            id='password'
+            placeholder='Your otp'
+            required/>
+            <button type='submit'>Log In </button>
           </form>
         </div>
       </section>
